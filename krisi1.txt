@@ -1,0 +1,14 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3E2A-5827
+
+ Directory of C:\Users\Krisi\gittest\kpetkova
+
+10/02/2025  08:06 PM    <DIR>          .
+10/02/2025  08:06 PM    <DIR>          ..
+10/02/2025  07:52 PM               314 .gitignore
+10/02/2025  07:54 PM               502 krisi.txt
+10/02/2025  08:06 PM                 0 krisi1.txt
+10/02/2025  07:52 PM             1,101 LICENSE
+10/02/2025  07:52 PM                10 README.md
+               5 File(s)          1,927 bytes
+               2 Dir(s)  283,937,099,776 bytes free
